@@ -1,1 +1,1 @@
-# Telegram-bot-
+# Telegram bot bo'yicha darslar
